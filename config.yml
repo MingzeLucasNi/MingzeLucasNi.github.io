@@ -33,7 +33,7 @@ menu:
 params:
     description: "A"
     author: Maghfira Ramadhani
-    googleAnalyticsID: ""
+    googleAnalyticsID: 
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
