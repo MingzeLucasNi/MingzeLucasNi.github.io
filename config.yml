@@ -31,9 +31,9 @@ menu:
           weight: 5
 
 params:
-    description: "Welcome to my personal website! My name is Maghfira Ramadhani, people call me Afi. I am a first-year PhD student at Georgia Institute of Technology, School of Economics."
+    description: "A"
     author: Maghfira Ramadhani
-    googleAnalyticsID: "G-97G4MZ4061"
+    googleAnalyticsID: ""
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -93,7 +93,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Maghfira Ramadhani"
       icon: /favicon.ico
       iconHeight: 18
 
