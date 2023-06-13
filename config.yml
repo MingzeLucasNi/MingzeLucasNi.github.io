@@ -70,7 +70,7 @@ params:
               url: /design/
     socialIcons:
         - name: CV
-          url: "/cv.pdf"
+          url: "/CV_Afi.pdf"
         - name: Email
           url: "mailto:maghfira.ramadhani@gatech.edu"
         - name: Location
