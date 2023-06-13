@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Maghfira Ramadhani
           subtitle: "Welcome to my personal website! My name is Maghfira Ramadhani, people call me Afi. I am a first-year PhD student at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu)."
-          imageUrl: "/profile.png"
+          imageUrl: "/picture.jpeg"
           imageWidth: 170
           imageHeight: 170
           imageTitle: Maghfira Ramadhani
