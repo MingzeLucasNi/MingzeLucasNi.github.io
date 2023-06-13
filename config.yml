@@ -31,7 +31,7 @@ menu:
           weight: 5
 
 params:
-    description: "Welcome to my personal website! You can call me Afi. I am a first-year PhD student at Georgia Institute of Technology, School of Economics."
+    description: "Welcome to my personal website!"
     author: Maghfira Ramadhani
     googleAnalyticsID: "G-LG3FT0FV6E"
     DateFormat: "January 2006"
