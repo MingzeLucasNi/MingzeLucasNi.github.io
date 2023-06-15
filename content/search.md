@@ -1,6 +1,6 @@
 ---
 title: "Search"
-layout: "/search.html"
+layout: "search"
 placeholder: "Search maghfiraer.github.io"
 ---
 
