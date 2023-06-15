@@ -26,9 +26,6 @@ menu:
         - name: Tags
           url: /tags/
           weight: 4
-        - name: Search
-          url: /search/  
-          weight: 6
 
 params:
     description: "Welcome to my personal website!"
@@ -66,8 +63,8 @@ params:
               url: /papers/
             - name: Courses
               url: /courses/
-            - name: Design
-              url: /design/
+            - name: Blog
+              url: /blog/
     socialIcons:
         - name: CV
           url: "/CV_Afi.pdf"
