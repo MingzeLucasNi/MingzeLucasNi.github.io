@@ -28,7 +28,7 @@ menu:
           weight: 4
         - name: Search
           url: /search/  
-          weight: 5
+          weight: 6
 
 params:
     description: "Welcome to my personal website!"
