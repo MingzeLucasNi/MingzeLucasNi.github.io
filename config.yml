@@ -33,10 +33,10 @@ params:
     googleAnalyticsID: "G-LG3FT0FV6E"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: true
+    hideFooter: false
     disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
+    ShowShareButtons: true
+    ShowReadingTime: true
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
