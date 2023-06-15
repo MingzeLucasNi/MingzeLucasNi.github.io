@@ -79,12 +79,8 @@ params:
           url: /officehours/
         - name: Google Scholar
           url: "https://scholar.google.com/citations?user=bpN8RCUAAAAJ"
-        - name: YouTube
-          url: ""
         - name: GitHub
           url: "https://github.com/maghfiraer"
-        - name: Substack
-          url: ""
 
     assets:
         disableHLJS: true
