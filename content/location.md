@@ -11,8 +11,8 @@ description: "My office and mailing addresses at the Georgia Institute of Techno
 
 #### Mailing address
 
-Economics PhD Office, Room 140 
-Old Civil Engineering Building 
+Economics PhD Office, Room 140  
+Old Civil Engineering Building  
 School of Economics  
 Georgia Institute of Technology  
 221 Bobby Dodd Way NW
