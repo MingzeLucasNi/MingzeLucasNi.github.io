@@ -23,9 +23,6 @@ menu:
         - name: Blog
           url: /blog/
           weight: 3
-        - name: CV
-          url: "/CV_Afi.pdf"
-          weight: 4
 #        - name: Tags
 #          url: /tags/
 #          weight: 4
@@ -67,7 +64,9 @@ params:
             - name: Courses
               url: /courses/
             - name: Blog
-              url: /blog/
+              url: /blog/ 
+            - name: CV
+              url: "/CV_Afi.pdf"
     socialIcons:
         - name: CV
           url: "/CV_Afi.pdf"
