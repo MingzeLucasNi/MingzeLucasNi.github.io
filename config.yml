@@ -62,7 +62,7 @@ params:
             - name: Research
               url: /research/
             - name: Teaching
-              url: /teach/
+              url: /teaching/
             - name: Blog
               url: /blog/ 
             - name: CV
