@@ -14,8 +14,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Research
-          url: /research/
+        - name: Papers
+          url: /papers/
           weight: 1
         - name: Courses
           url: /courses/
@@ -59,8 +59,8 @@ params:
           imageHeight: 170
           imageTitle: Maghfira Ramadhani
           buttons:
-            - name: Research
-              url: /research/
+            - name: Papers
+              url: /papers/
             - name: Courses
               url: /courses/
             - name: Blog
