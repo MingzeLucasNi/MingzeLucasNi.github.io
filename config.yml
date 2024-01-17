@@ -24,7 +24,7 @@ menu:
 #          url: /blog/
 #          weight: 3
         - name: CV
-          url: /CV_Afi.pdf
+          url: /cv_afi.pdf
 #          weight: 4
 #        - name: Tags
 #          url: /tags/
@@ -69,10 +69,10 @@ params:
 #            - name: Blog
 #              url: /blog/ 
             - name: CV
-              url: "/CV_Afi.pdf"
+              url: "/cv_afi.pdf"
     socialIcons:
 #        - name: CV
-#          url: "/CV_Afi.pdf"
+#          url: "/cv_afi.pdf"
         - name: Email
           url: "mailto:maghfira.ramadhani@gatech.edu"
 #        - name: Location
