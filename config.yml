@@ -68,14 +68,14 @@ params:
             - name: CV
               url: "/CV_Afi.pdf"
     socialIcons:
-        - name: CV
-          url: "/CV_Afi.pdf"
+#        - name: CV
+#          url: "/CV_Afi.pdf"
         - name: Email
           url: "mailto:maghfira.ramadhani@gatech.edu"
-        - name: Location
-          url: /location/
-        - name: Office Hours
-          url: /officehours/
+#        - name: Location
+#          url: /location/
+#        - name: Office Hours
+#          url: /officehours/
         - name: Google Scholar
           url: "https://scholar.google.com/citations?user=bpN8RCUAAAAJ"
         - name: GitHub
