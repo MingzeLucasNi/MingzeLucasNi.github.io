@@ -24,7 +24,7 @@ menu:
           url: /blog/
           weight: 3
         - name: CV
-          url: "/CV_Afi.pdf"
+          url: /CV_Afi.pdf
           weight: 4
 #        - name: Tags
 #          url: /tags/
