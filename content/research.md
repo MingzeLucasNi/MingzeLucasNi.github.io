@@ -1,8 +1,7 @@
 ---
-title: "About Me" 
+title: "Research" 
 date: 2022-06-22
 url: /r1/
-author: "Maghfira Ramadhani"
 description: "A short introduction" 
 summary: "A short introduction" 
 cover:
