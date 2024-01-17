@@ -17,8 +17,8 @@ menu:
         - name: Research
           url: /research/
           weight: 1
-        - name: Courses
-          url: /courses/
+        - name: Teaching
+          url: /teaching/
           weight: 2
         - name: Blog
           url: /blog/
@@ -61,8 +61,8 @@ params:
           buttons:
             - name: Research
               url: /research/
-            - name: Courses
-              url: /courses/
+            - name: Teaching
+              url: /teach/
             - name: Blog
               url: /blog/ 
             - name: CV
