@@ -11,8 +11,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Research
-          url: /research/
+        - name: Publications
+          url: /publication/
           weight: 1
         - name: Interestes
           url: /interests/
@@ -60,10 +60,10 @@ params:
           imageTitle: Dr Mingze Lucas Ni
           buttons:
 
-            - name: Research
-              url: /research/
+            - name: Publications
+              url: /publication/
 
-            - name: Interestes
+            - name: Interests
               url: /interests/
 
             - name: Projects
