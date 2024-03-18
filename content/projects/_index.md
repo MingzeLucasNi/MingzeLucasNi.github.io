@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Projects"
 description: "List of research activity"
 ---
 
