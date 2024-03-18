@@ -17,13 +17,13 @@ menu:
         - name: Interests
           url: /interests/
           weight: 2
-       - name: Projects
+        - name: Projects
           url: /projects/
           weight: 3
         - name: Resume
           url: /cv_afi.pdf
           weight: 4
-       - name: Services
+        - name: Services
           url: /services/
           weight: 5
 
@@ -75,23 +75,10 @@ params:
             - name: Services
               url: /services/
 
-#             - name: Research
-#               url: /research/
-#             - name: Teaching
-#               url: /teaching/
-# #            - name: Blog
-# #              url: /blog/ 
-#             - name: CV
-#               url: "/cv_afi.pdf"
-
 
     socialIcons:
-#        - name: CV
-#          url: "/cv_afi.pdf"
         - name: Email
           url: "mailto:mingze.ni@uts.edu.au"
-#        - name: Location
-#          url: /location/
         - name: homepage
           url: "https://profiles.uts.edu.au/mingze.ni"
         - name: Google Scholar
