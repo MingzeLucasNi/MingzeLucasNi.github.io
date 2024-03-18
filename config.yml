@@ -92,8 +92,8 @@ params:
           url: "mailto:mingze.ni@uts.edu.au"
 #        - name: Location
 #          url: /location/
-        - name: homepage
-          url: "https://profiles.uts.edu.au/mingze.ni"
+        # - name: homepage
+        #   url: "https://profiles.uts.edu.au/mingze.ni"
         - name: Google Scholar
           url: "https://scholar.google.com/citations?user=eGc81EIAAAAJ&hl=en"
         - name: GitHub
