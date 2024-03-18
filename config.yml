@@ -7,123 +7,98 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: Publications
-          url: /publication/
-          weight: 1
-        - name: Interests
-          url: /interests/
-          
-          # weight: 2
-       - name: Projects
-          url: /projects/
-          weight: 3
-        - name: Resume
-          url: /cv_afi.pdf
-        #  weight: 4
-       - name: Services
-          url: /services/
-          weight: 5
+  main:
+    - name: Publications
+      url: /publication/
+      weight: 1
+    - name: Interests
+      url: /interests/
+      weight: 2
+    - name: Projects
+      url: /projects/
+      weight: 3
+    - name: Resume
+      url: /cv_afi.pdf
+      weight: 4
+    - name: Services
+      url: /services/
+      weight: 5
 
 params:
-    description: "Welcome to my personal website!"
-    author: Dr Mingze Lucas Ni
-    googleAnalyticsID: "G-LG3FT0FV6E"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: false
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Dr Mingze Lucas Ni
-          subtitle: " Mingze Ni is a Postdoc researcher at the University of Technology Sydney, specializing in adversarial attacks on Natural Language Processing (NLP) models. With a foundational B.Sc. in Statistics and Mathematics from the Australian National University and an Honours degree in Computational Statistics and Machine Learning from the University of Queensland, his research delves into areas such as adversarial text sample generation, machine translation vulnerabilities, and novel classification methodologies. His significant academic contributions are evident in his publications across esteemed top-tier platforms like AAAI, TKDE and the Machine Learning journal. He also contributes to the academic community as a program committee member for CIKM, showcasing his commitment to advancing research and development in machine learning and NLP."
-          imageUrl: "/icon.webp"
-          imageWidth: 170
-          imageHeight: 170
-          imageTitle: Dr Mingze Lucas Ni
-          buttons:
+  description: "Welcome to my personal website!"
+  author: Dr Mingze Lucas Ni
+  googleAnalyticsID: "G-LG3FT0FV6E"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: Dr Mingze Lucas Ni
+    subtitle: "Mingze Ni is a Postdoc researcher at the University of Technology Sydney, specializing in adversarial attacks on Natural Language Processing (NLP) models. With a foundational B.Sc. in Statistics and Mathematics from the Australian National University and an Honours degree in Computational Statistics and Machine Learning from the University of Queensland, his research delves into areas such as adversarial text sample generation, machine translation vulnerabilities, and novel classification methodologies. His significant academic contributions are evident in his publications across esteemed top-tier platforms like AAAI, TKDE and the Machine Learning journal. He also contributes to the academic community as a program committee member for CIKM, showcasing his commitment to advancing research and development in machine learning and NLP."
+    imageUrl: "/icon.webp"
+    imageWidth: 170
+    imageHeight: 170
+    imageTitle: Dr Mingze Lucas Ni
+    buttons:
+      - name: Publications
+        url: /publication/
+      - name: Interests
+        url: /interests/
+      - name: Projects
+        url: /projects/
+      - name: Resume
+        url: /cv_afi.pdf
+      - name: Services
+        url: /services/
 
-            - name: Publications
-              url: /publication/
+socialIcons:
+  - name: Email
+    url: "mailto:mingze.ni@uts.edu.au"
+  - name: homepage
+    url: "https://profiles.uts.edu.au/mingze.ni"
+  - name: Google Scholar
+    url: "https://scholar.google.com/citations?user=eGc81EIAAAAJ&hl=en"
+  - name: GitHub
+    url: "https://github.com/MingzeLucasNi"
 
-            - name: Interests
-              url: /interests/
-
-            - name: Projects
-              url: /projects/
-
-            - name: Resume
-              url: /cv_afi.pdf
-
-            - name: Services
-              url: /services/
-
-#             - name: Research
-#               url: /research/
-#             - name: Teaching
-#               url: /teaching/
-# #            - name: Blog
-# #              url: /blog/ 
-#             - name: CV
-#               url: "/cv_afi.pdf"
-
-
-    socialIcons:
-#        - name: CV
-#          url: "/cv_afi.pdf"
-        - name: Email
-          url: "mailto:mingze.ni@uts.edu.au"
-#        - name: Location
-#          url: /location/
-        - name: homepage
-          url: "https://profiles.uts.edu.au/mingze.ni"
-        - name: Google Scholar
-          url: "https://scholar.google.com/citations?user=eGc81EIAAAAJ&hl=en"
-        - name: GitHub
-          url: "https://github.com/MingzeLucasNi"
-
-    assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: true
-        hiddenInSingle: true
-    label:
-      text: "Dr Mingze Lucas Ni"
-      icon: /favicon.ico
-      iconHeight: 18
+assets:
+  disableHLJS: true
+  disableScrollBarStyle: true
+cover:
+  hiddenInList: true
+  hiddenInSingle: true
+label:
+  text: "Dr Mingze Lucas Ni"
+  icon: /favicon.ico
+  iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: xcode
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
-
-# max number of characters:
-# * title: 70
-# * description: 120–155
-# * summary: 265
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: xcode
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
