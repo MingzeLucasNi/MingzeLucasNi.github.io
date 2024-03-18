@@ -14,18 +14,18 @@ menu:
         - name: Research
           url: /research/
           weight: 1
-        - name: Teaching
-          url: /teaching/
+        - name: Interestes
+          url: /interests/
           weight: 2
-#        - name: Blog
-#          url: /blog/
-#          weight: 3
-        - name: CV
+       - name: Projects
+          url: /projects/
+          weight: 3
+        - name: Resume
           url: /cv_afi.pdf
-#          weight: 4
-#        - name: Tags
-#          url: /tags/
-#          weight: 4
+        #  weight: 4
+       - name: Services
+          url: /services/
+          weight: 5
 
 params:
     description: "Welcome to my personal website!"
@@ -59,14 +59,32 @@ params:
           imageHeight: 170
           imageTitle: Dr Mingze Lucas Ni
           buttons:
+
             - name: Research
               url: /research/
-            - name: Teaching
-              url: /teaching/
-#            - name: Blog
-#              url: /blog/ 
-            - name: CV
-              url: "/cv_afi.pdf"
+
+            - name: Interestes
+              url: /interests/
+
+            - name: Projects
+              url: /projects/
+
+            - name: Resume
+              url: /cv_afi.pdf
+
+            - name: Services
+              url: /services/
+
+#             - name: Research
+#               url: /research/
+#             - name: Teaching
+#               url: /teaching/
+# #            - name: Blog
+# #              url: /blog/ 
+#             - name: CV
+#               url: "/cv_afi.pdf"
+
+
     socialIcons:
 #        - name: CV
 #          url: "/cv_afi.pdf"
@@ -74,12 +92,12 @@ params:
           url: "mailto:mingze.ni@uts.edu.au"
 #        - name: Location
 #          url: /location/
-        - name: Office Hours
-          url: "https://outlook.office.com/bookwithme/user/951a0a27d4b04de1960b5a3481e0d4cf@gatech.edu/meetingtype/t9eSIZ7dVUSyzF4QUMPTgA2?anonymous&ep=mLinkFromTile"
+        - name: homepage
+          url: "https://profiles.uts.edu.au/mingze.ni"
         - name: Google Scholar
-          url: "https://scholar.google.com/citations?user=bpN8RCUAAAAJ"
+          url: "https://scholar.google.com/citations?user=eGc81EIAAAAJ&hl=en"
         - name: GitHub
-          url: "https://github.com/maghfiraer"
+          url: "https://github.com/MingzeLucasNi"
 
     assets:
         disableHLJS: true
