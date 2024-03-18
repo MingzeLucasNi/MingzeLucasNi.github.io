@@ -6,9 +6,6 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-social:
-    twitter: maghfiraEr
-
 taxonomies:
     tag: tags
 
@@ -32,7 +29,7 @@ menu:
 
 params:
     description: "Welcome to my personal website!"
-    author: Maghfira Ramadhani
+    author: Dr Mingze Lucas Ni
     googleAnalyticsID: "G-LG3FT0FV6E"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -55,12 +52,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Maghfira Ramadhani
+          title: Dr Mingze Lucas Ni
           subtitle: "Welcome to my personal website! You can call me Afi. I am a PhD student at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu)."
           imageUrl: "/picture.jpg"
           imageWidth: 170
           imageHeight: 170
-          imageTitle: Maghfira Ramadhani
+          imageTitle: Dr Mingze Lucas Ni
           buttons:
             - name: Research
               url: /research/
@@ -91,7 +88,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Maghfira Ramadhani"
+      text: "Dr Mingze Lucas Ni"
       icon: /favicon.ico
       iconHeight: 18
 
