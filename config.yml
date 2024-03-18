@@ -16,7 +16,8 @@ menu:
           weight: 1
         - name: Interests
           url: /interests/
-          weight: 2
+          
+          # weight: 2
        - name: Projects
           url: /projects/
           weight: 3
