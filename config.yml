@@ -23,9 +23,7 @@ menu:
         - name: Resume
           url: /CV_Lucas.pdf
           weight: 4
-        - name: Services
-          url: /services/
-          weight: 5
+
 
 params:
     description: "Welcome to my personal website!"
@@ -72,9 +70,6 @@ params:
             - name: Resume
               url: /CV_Lucas.pdf
 
-            - name: Services
-              url: /services/
-
 
     socialIcons:
         - name: Email
@@ -85,6 +80,8 @@ params:
           url: "https://scholar.google.com/citations?user=eGc81EIAAAAJ&hl=en"
         - name: GitHub
           url: "https://github.com/MingzeLucasNi"
+        - name: Orcid
+          url: "https://orcid.org/0000-0003-1220-365X"
 
     assets:
         disableHLJS: true
