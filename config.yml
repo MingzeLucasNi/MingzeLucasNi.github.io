@@ -57,8 +57,8 @@ params:
           title: Mingze Lucas Ni
           subtitle: "Mingze Ni is a Postdoctoral Researcher in machine learning at the University of Technology Sydney. His research interests lie in adversarial machine learning, Markov Chain Monte Carlo (MCMC) methods, combinatorial optimization, and Natural Language Processing (NLP)."
           imageUrl: "/profile.jpg"
-          imageWidth: 155
-          imageHeight: 180
+          imageWidth: 133
+          imageHeight: 165
           imageTitle: Mingze Lucas Ni
           buttons:
 
